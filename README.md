@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning pyspark and python and sql
 - 💞️ I’m looking to collaborate on anything related to data
 - 📫 How to reach me on linkedin : https://www.linkedin.com/in/pankaj-rao-7469b725b/
-- 
 
 <!---
 Pankajjrao/Pankajjrao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
